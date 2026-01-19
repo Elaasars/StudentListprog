@@ -33,6 +33,7 @@ public class StudentList {
        System.out.println(list[i].getName() + "" + list[i].getSid());
    }
     //store s1 object in an array
+        //test the pull test test real test for really real test
     
     }// todo code application logic
     //define and print 3 student informaton name, studentid using array
