@@ -40,6 +40,7 @@ public class Student {
      */
     public void setSid(int sid) {
         this.sid = sid;
+        // test fetch and pull
     }
            
 }
